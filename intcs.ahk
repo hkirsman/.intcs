@@ -36,6 +36,7 @@
 :oc:.bortw::border-top-width:1px
 :oc:.borw::border-width:1px
 :oc:.bot::bottom:px{Left}{Left}
+:oc:.boxs::-webkit-box-shadow: 0px 0px 5px rgba(0, 0, 0, 0.3);{Enter}-moz-box-shadow:    0px 0px 5px rgba(0, 0, 0, 0.3);{Enter}box-shadow:         0px 0px 5px rgba(0, 0, 0, 0.3);
 :oc:.caps::caption-side:
 :oc:.cle::clear:
 :oc:.cli::clip:
