@@ -120,3 +120,6 @@
 :oc:.wido::widows:
 :oc:.wors::word-spacing:
 :oc:.z::z-index:
+
+; Aliases
+:oc:.w::width: px{Left}{Left}
